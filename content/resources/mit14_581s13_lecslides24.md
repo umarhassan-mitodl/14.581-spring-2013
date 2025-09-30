@@ -4,6 +4,8 @@ description: This resource contains information regarding lecture slide 24.
 file: /courses/14-581-international-economics-i-spring-2013/450bb86a68d0feddac6a94ddd5151ebc_MIT14_581S13_Lecslides24.pdf
 file_size: 191724
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

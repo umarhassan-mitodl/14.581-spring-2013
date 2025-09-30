@@ -4,6 +4,8 @@ description: This resource contains information regarding lecture slide 15.
 file: /courses/14-581-international-economics-i-spring-2013/367e4309dbc33cd57da3664146619674_MIT14_581S13_Lecslides15.pdf
 file_size: 254647
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
