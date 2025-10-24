@@ -4,8 +4,6 @@ description: This file contains information regarding lecture 2.
 file: /courses/14-581-international-economics-i-spring-2013/eb8e41b17a25055c3c7063c97b62c57f_MIT14_581S13_classnotes2.pdf
 file_size: 161730
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

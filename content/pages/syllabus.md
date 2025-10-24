@@ -2,8 +2,6 @@
 content_type: page
 description: This syllabus section provides an overview of course topics and information
   on meeting times, prerequisites, and requirements.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
